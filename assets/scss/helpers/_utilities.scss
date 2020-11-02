@@ -7,3 +7,55 @@ body{
   position: relative;
   top: 300px;
 }
+
+.background-text{
+  position: relative;
+  top: 200px;
+}
+
+.notification{
+  position: absolute;
+  height: 12px;
+  width: 12px;
+  background-color: #E52828;
+  border-radius: 50%;
+  top: 25px;
+  margin-left: 30px;
+}
+
+.notification2{
+  position: absolute;
+  height: 12px;
+  width: 12px;
+  background-color: #E52828;
+  border-radius: 50%;
+  top: 25px;
+  margin-left: 30px;
+}
+
+.notificationp{
+  position: absolute;
+  top: -2px;
+  margin-left: 3.5px;
+}
+
+.btn-img{
+  position: absolute;
+  bottom: 30px;
+  margin-left: 30px;
+}
+
+.btn-img2{
+  position: absolute;
+  top: 290px;
+  margin-left: 30px;
+}
+.btn-img3{
+  position: absolute;
+  bottom: 30px;
+  margin-left: 30px;
+}
+
+.clicker{
+  cursor: pointer;
+}
